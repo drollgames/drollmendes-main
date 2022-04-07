@@ -6,5 +6,5 @@
 se o valor `{my.key}` for inválido:
 
 ```json
-{"get":[root]"}
+{"get":["root"]}
 ```
